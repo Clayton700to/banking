@@ -11,7 +11,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "Blue Wallet",
-  description: "Blue Wallet is a mordern banking platfrom for everyone.",
+  description: "Blue Wallet is a modern banking platform for everyone.",
   icons: {
     icon: '/icons/logo.svg'
   }
